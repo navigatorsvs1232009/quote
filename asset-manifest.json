@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React_quote/static/css/main.26391669.css",
+    "main.js": "/React_quote/static/js/main.2e45a322.js",
+    "static/js/787.297bc9a9.chunk.js": "/React_quote/static/js/787.297bc9a9.chunk.js",
+    "index.html": "/React_quote/index.html",
+    "main.26391669.css.map": "/React_quote/static/css/main.26391669.css.map",
+    "main.2e45a322.js.map": "/React_quote/static/js/main.2e45a322.js.map",
+    "787.297bc9a9.chunk.js.map": "/React_quote/static/js/787.297bc9a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26391669.css",
+    "static/js/main.2e45a322.js"
+  ]
+}
